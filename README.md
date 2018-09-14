@@ -61,3 +61,6 @@ If you want to donate to the project you can via PayPal. I have had a may kind p
 	<li><a href="https://www.facebook.com/linuxgsm">Facebook</a></li>
 	<li><a href="https://plus.google.com/+Gameservermanagers1">Google+</a></li>
 <ul>
+	<h2>Differences</h2>
+	<ul>
+		<li>Currently only difference is that in Call of Duty 2 i have enabled pb in default settings</li>
